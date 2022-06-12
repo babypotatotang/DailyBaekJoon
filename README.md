@@ -12,26 +12,27 @@ _Update: 2022-06-12_
     - (commit message) 개인적으로 생각하는 난이도에 따라서 문제를 분류 후 난이도별 회고   
     - 기억에 남는 풀이를 블로그에 정리 및 공유   
 - 폴더 트리 
-    > Cumulative Sum 
-    > Data Structures
-        > Deque
-        > Hash
-        > Priority Queue
-        > Queue
-        > Stack
-    > Divide and Conquer
-    > Dynamic Programming
-    > Graphs
-        > Bellan Ford
-        > BFS
-        > DFS
-        > Dijkstra
-        > Floyd Warshall
-        > Greedy Algorithm
-    > Implementation
-        > BackTracking
-        > Brute Force
-        > Math
-        > String 
-    > Search
-        > Binary Search
+```bash
+├── Data Structures
+│   ├── Deque
+│   ├── Hash
+│   ├── Queue
+│   └── Stack
+├── Divide and Conquer
+├── Dynamic Programming
+├── Graphs
+│   ├── Bellman Ford
+│   ├── BFS
+│   ├── DFS
+│   ├── Dijkstra
+│   └── Floyd Warshall
+├── Greedy Algorithm
+├── Implementation 
+│   ├── BackTracking
+│   ├── Brute Force
+│   ├── Math
+│   └── String 
+├── Search
+│   └── Binary Search
+└── README.md
+``` 
