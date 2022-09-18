@@ -33,3 +33,6 @@ result += odd_L * odd_n
 result += ''.join(reversed(result[0:repeat_len]))
 
 print(result)
+
+
+O(g(n)) = { f(n): there exist positive constants c and n0 such that 0 ≤ f(n) ≤ cg(n) for all n ≥ n0 }
