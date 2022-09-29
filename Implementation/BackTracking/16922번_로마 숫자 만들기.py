@@ -4,9 +4,9 @@ nums = [1,5,10,50] # 사용할 숫자들
 result = []
 
 def track(num_list, depth):
-    if depth == n:
-        result.append(sum(num_list))
-        return 
+    if depth == n: # 깊이가 주어진 n과 같다면 
+        result.append(sum(num_list)) # 결과에 합을 넣고 
+        return # 반환 
 
     for num in nums:
         if num >= num_list[-1]: # 크거나 같은 숫자에 대해서 append 
