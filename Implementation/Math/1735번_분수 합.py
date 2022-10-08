@@ -19,4 +19,4 @@ gcd = math.gcd(aresult, bresult)
 # 기약분수 만들기 
 aresult //= gcd; bresult //=gcd
 
-print(f"{aresult} {bresult}")
+print(f"{aresult} {bresult}") # 결과 출력 
