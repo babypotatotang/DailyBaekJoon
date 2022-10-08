@@ -13,4 +13,3 @@ for i in range(n):
             if word_j == word_i and j not in check_index: result -=1; check_index.append(j)
 
 print(result)
-        
