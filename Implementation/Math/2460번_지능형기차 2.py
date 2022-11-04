@@ -7,4 +7,4 @@ for i in range(10):
     else:
         people[i] = people[i-1] - t_out + t_in
 
-print(people)
+print(max(people))
